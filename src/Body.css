@@ -1,0 +1,61 @@
+.blogContent {
+    width: 70%;
+    height: 120%;
+    position: relative;
+}
+
+.image {
+    align-items: left;
+}
+
+.question {
+    margin-top: 2px;
+    width: 40%;
+    font-size: 30px;
+    font-weight: 1000;
+}
+
+.description {
+    margin-top: 2px;
+    width: 50%;
+    font-size: 14px;
+}
+
+.btn {
+    position: relative;
+    margin-top: 1em;
+}
+
+.newBlog {
+    width: 30%;
+    background-color: hsl(240, 100%, 5%);
+    position: relative;
+    margin: 0em 0em 1em 1em;
+}
+
+.new {
+    color: hsl(35, 77%, 62%);
+    font-size: 30px;
+    font-weight: 500;
+    padding: 1em
+}
+
+.newHeading {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 2px;
+    padding: 0.5em 0.5em 0.5em 2em
+}
+
+.newHelperData {
+    color: white;
+    font-size: 12px;
+    padding: 0.5em 0.5em 0.5em 3em
+}
+
+.captionLight{
+    background-color: gray;
+    height: 0.1px;
+    margin: 1.5em 1.5em 1.5em 2em;
+}

@@ -1,0 +1,22 @@
+
+.logo {
+    width: 60%;
+    height: 60px;
+    position: relative;
+    text-align: left;
+    font-size: 2em;
+    font-family: fantasy;
+}
+
+.navigation {
+    width: 40%;
+    height: 60px;
+    position: relative;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+}
+
+.actions:hover {
+    color: hsl(35, 77%, 62%)
+}

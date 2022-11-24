@@ -1,0 +1,42 @@
+.footer {
+    width: 100%;
+    position: relative;
+    margin-top: 4em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footercomponent {
+    display: inline-block;
+    width: 40%;
+}
+
+.images {
+    height: 70%;
+    width: 50%;
+}
+
+.number {
+    color: hsl(233, 8%, 79%);
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.heading {
+    font-weight: 500;
+}
+
+.text {
+    color: hsl(236, 13%, 42%);
+    font-size: 14px;
+}
+
+.heading:hover{
+    color: hsl(5, 85%, 63%);
+}
+.part {
+    padding-left: 0.5em;
+    display: inline-block;
+    width: 40%;
+}

@@ -1,7 +1,6 @@
-.App {
-  text-align: center;
+.App{
+  padding: 1em 4em 2em 4em;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
